@@ -1,4 +1,4 @@
-compiler-util
-=============
+compiler-common
+===============
 
-Utilities for compiler construction
+Common utilities for compiler construction

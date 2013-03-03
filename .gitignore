@@ -1,6 +1,8 @@
-*.class
+target
+*.iml
+*.ipr
+*.iws
+.idea
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# C binary
+*.out
